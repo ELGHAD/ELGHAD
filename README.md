@@ -8,45 +8,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hamza+ELRHADIOUINI;Software+Engineering+Student+%7C+Full-Stack+Developer;Clean+Code+.+Cloud+Ready+.+Problem+Solver" alt="Title typing"/>
 </p>
 
-<!-- Link Bar — Glass Tabs -->
-<div align="center">
+<!-- Link Bar — Gradient Pills -->
+<div align="center" style="margin-top:4px;">
   <a href="https://hamza-elrhadiouini-portfolio.lovable.app" target="_blank"
-     style="text-decoration:none;margin:6px;display:inline-flex;align-items:center;gap:10px;padding:10px 16px;border-radius:12px;
-            background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#E5E7EB;font-weight:600;letter-spacing:.06em;">
-    <!-- triangle/portfolio icon -->
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="#E5E7EB" xmlns="http://www.w3.org/2000/svg">
-      <path d="M12 3l10 18H2L12 3z"/>
-    </svg>
-    PORTFOLIO
-    <span style="opacity:.8;font-weight:500">· VISIT</span>
+     style="text-decoration:none;margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
+            background:linear-gradient(135deg,#374151,#111827);color:#E5E7EB;font-weight:700;letter-spacing:.08em;">
+    ▲ PORTFOLIO
   </a>
-
   <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202" target="_blank"
-     style="text-decoration:none;margin:6px;display:inline-flex;align-items:center;gap:10px;padding:10px 16px;border-radius:12px;
-            background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#E5E7EB;font-weight:600;letter-spacing:.06em;">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="#E5E7EB" xmlns="http://www.w3.org/2000/svg">
-      <path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM0 8h5v16H0V8zm7.5 0H12v2.2h.06C12.7 8.6 14.2 7.5 16.4 7.5 21 7.5 22 10.5 22 15.1V24h-5v-7.6c0-1.8 0-4.1-2.5-4.1-2.5 0-2.9 1.9-2.9 3.9V24h-5V8z"/>
-    </svg>
-    LINKEDIN
-    <span style="opacity:.8;font-weight:500">· CONNECT</span>
+     style="text-decoration:none;margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
+            background:linear-gradient(135deg,#2563EB,#1D4ED8);color:#F8FAFC;font-weight:800;letter-spacing:.08em;">
+    CONNECT
   </a>
-
   <a href="mailto:hamelrhadiouini@gmail.com"
-     style="text-decoration:none;margin:6px;display:inline-flex;align-items:center;gap:10px;padding:10px 16px;border-radius:12px;
-            background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#E5E7EB;font-weight:600;letter-spacing:.06em;">
-    <!-- mail icon -->
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="#E5E7EB" xmlns="http://www.w3.org/2000/svg">
-      <path d="M20 4H4c-1.1 0-2 .9-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-    </svg>
-    EMAIL
-    <span style="opacity:.8;font-weight:500">· CONTACT</span>
+     style="text-decoration:none;margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
+            background:linear-gradient(135deg,#374151,#111827);color:#E5E7EB;font-weight:700;letter-spacing:.08em;">
+    ✉ EMAIL
   </a>
-
-  <span style="margin:6px;display:inline-flex;align-items:center;gap:10px;padding:10px 16px;border-radius:12px;
-               background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#E5E7EB;font-weight:600;letter-spacing:.06em;">
-    PROFILE VIEWS
-    <img src="https://komarev.com/ghpvc/?username=ELGHAD&style=flat-square&color=808080&label=%20"
-         alt="views" style="height:18px;vertical-align:middle;border-radius:6px;padding-left:6px;">
+  <span style="margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
+               background:linear-gradient(135deg,#374151,#111827);color:#E5E7EB;font-weight:700;letter-spacing:.08em;">
+    PROFILE VIEWS <img src="https://komarev.com/ghpvc/?username=ELGHAD&style=flat-square&color=808080&label=%20"
+                        alt="views" style="height:18px;vertical-align:middle;margin-left:6px;">
   </span>
 </div>
 
