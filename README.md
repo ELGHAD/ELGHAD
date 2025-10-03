@@ -95,7 +95,7 @@ J’aime créer des applis **propres, performantes et utiles**, avec une UI sobr
 
 ## 🤝 Me contacter
 - 📧 **Email** : hamelrhadiouini@gmail.com  
-- 🔗 **LinkedIn** : /in/elrhadiouini-hamza-64ba04202  
-- 🌐 **Portfolio** : hamza-elrhadiouini-portfolio.lovable.app
+- 🔗 **LinkedIn** : [/in/elrhadiouini-hamza-64ba04202](https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/)  
+- 🌐 **Portfolio** : [hamza-elrhadiouini-portfolio.lovable.app](https://hamza-elrhadiouini-portfolio.lovable.app/)
 
 > Si un projet t’intéresse, ouvre une *issue* ou écris-moi — je réponds vite !
