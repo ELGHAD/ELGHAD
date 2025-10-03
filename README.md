@@ -100,17 +100,6 @@
 
 ---
 
-## 📈 Statistiques
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELGHAD&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELGHAD&layout=compact&langs_count=8" height="140"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ELGHAD&hide_border=false" height="140"/>
-</p>
-
----
-
 ## 🤝 Me contacter
 📧 [hamelrhadiouini@gmail.com](mailto:hamelrhadiouini@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/)  
