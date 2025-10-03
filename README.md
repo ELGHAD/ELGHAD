@@ -8,29 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hamza+ELRHADIOUINI;Software+Engineering+Student+%7C+Full-Stack+Developer;Clean+Code+.+Cloud+Ready+.+Problem+Solver" alt="Title typing"/>
 </p>
 
-<!-- Link Bar — Gradient Pills -->
-<div align="center" style="margin-top:4px;">
-  <a href="https://hamza-elrhadiouini-portfolio.lovable.app" target="_blank"
-     style="text-decoration:none;margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
-            background:linear-gradient(135deg,#374151,#111827);color:#E5E7EB;font-weight:700;letter-spacing:.08em;">
-    ▲ PORTFOLIO
+<!-- Liens sociaux -->
+<p align="center">
+  <a href="https://elrhadiouini-code-art.lovable.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0B1020?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202" target="_blank"
-     style="text-decoration:none;margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
-            background:linear-gradient(135deg,#2563EB,#1D4ED8);color:#F8FAFC;font-weight:800;letter-spacing:.08em;">
-    CONNECT
+  <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:hamelrhadiouini@gmail.com"
-     style="text-decoration:none;margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
-            background:linear-gradient(135deg,#374151,#111827);color:#E5E7EB;font-weight:700;letter-spacing:.08em;">
-    ✉ EMAIL
+  <a href="mailto:hamelrhadiouini@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-1E293B?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <span style="margin:4px;display:inline-block;padding:10px 16px;border-radius:999px;
-               background:linear-gradient(135deg,#374151,#111827);color:#E5E7EB;font-weight:700;letter-spacing:.08em;">
-    PROFILE VIEWS <img src="https://komarev.com/ghpvc/?username=ELGHAD&style=flat-square&color=808080&label=%20"
-                        alt="views" style="height:18px;vertical-align:middle;margin-left:6px;">
-  </span>
-</div>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ELGHAD&style=for-the-badge&color=grey">
+</p>
 
 ---
 
