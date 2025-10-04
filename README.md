@@ -27,8 +27,8 @@
 ## 👋 About Me
 - 🎓 Software Engineering Student (EMSI Rabat)  
 - 💻 Passionate about **software engineering and web development**  
-- 🌍 I'm a passionate and versatile Computer and Network Engineering  
-- 🤝 Always open to **collaboration and learning**  
+- 🌍 A versatile Computer and Network Engineer driven by curiosity and innovation  
+- 🤝 Always eager to collaborate, learn, and create impactful solutions  
 - ⚡ Fun fact: “ I can code for hours as long as there’s rap in my headphones 🎧 ”
 
 ---
