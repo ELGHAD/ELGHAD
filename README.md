@@ -74,4 +74,4 @@
 
 ---
 
-✨ *“Turning ideas into impactful solutions through clean code and modern engineering.”*
+✨ *“Coding in rhythm, beating through rap and software — that’s my flow.”*
