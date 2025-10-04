@@ -26,10 +26,10 @@
 
 ## 👋 About Me
 - 🎓 Software Engineering Student (EMSI Rabat)  
-- 💻 Passionate about **Full-Stack Development**  
-- 🌍 Interested in **Cloud, DevOps, and Modern Architectures**  
+- 💻 Passionate about **software engineering and web development**  
+- 🌍 I'm a passionate and versatile Computer and Network Engineering  
 - 🤝 Always open to **collaboration and learning**  
-- ⚡ Fun fact: I’m a problem solver who loves turning ideas into clean code  
+- ⚡ Fun fact: “ I can code for hours as long as there’s rap in my headphones 🎧 ”
 
 ---
 
