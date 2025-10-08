@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 📧 [Email Me](mailto:hamelrhadiouini@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/)  
-🌐 [Portfolio](https://elrhadiouini-code-art.lovable.app)  
+🌐 [Portfolio](https://hamza-elrhadiouini-portfolio.lovable.app/)
 
 ---
 
