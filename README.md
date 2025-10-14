@@ -10,7 +10,7 @@
 
 <!-- Social links -->
 <p align="center">
-  <a href="https://elrhadiouini-code-art.lovable.app" target="_blank">
+  <a href="https://hamza-elrhadiouini-portfolio.lovable.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0B1020?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202" target="_blank">
