@@ -78,14 +78,8 @@
   />
 </p>
 
-### Detailed Language Breakdown
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Stats — Most Used Languages (Detailed)" width="600"/>
-</p>
 
-*(To enable this detailed chart, set up [lowlighter/metrics](https://github.com/lowlighter/metrics) with the config in your repository.)*
 
----
 
 ## 📫 Connect With Me
 📧 [Email Me](mailto:hamelrhadiouini@gmail.com)  
