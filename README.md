@@ -25,11 +25,12 @@
 ---
 
 ## 👋 About Me
+
 - 🎓 Software Engineering Student (EMSI Rabat)  
-- 💻 Passionate about **software engineering and web development**  
-- 🌍 A versatile Computer and Network Engineer driven by curiosity and innovation  
-- 🤝 Always eager to collaborate, learn, and create impactful solutions  
-- ⚡ Fun fact: “ I can code for hours as long as there’s rap in my headphones 🎧 ”
+- 💻 Passionate about **software engineering and full-stack web development**  
+- ☁️ Interested in **Cloud, DevOps, and Scalable Architectures**  
+- 🌍 A curious and versatile Computer Engineer always eager to learn and build  
+- ⚡ Fun fact: *“I can code for hours as long as there’s rap in my headphones 🎧”*
 
 ---
 
@@ -64,6 +65,25 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+### Most Used Languages
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELGHAD&layout=compact&langs_count=12&card_width=500&hide_border=true&theme=github_dark"
+    alt="Top languages for ELGHAD"
+  />
+</p>
+
+### Detailed Language Breakdown
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Stats — Most Used Languages (Detailed)" width="600"/>
+</p>
+
+*(To enable this detailed chart, set up [lowlighter/metrics](https://github.com/lowlighter/metrics) with the config in your repository.)*
 
 ---
 
