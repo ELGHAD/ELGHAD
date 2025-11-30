@@ -28,7 +28,6 @@
 
 - 🎓 Software Engineering Student   
 - 💻 Passionate about **software engineering and full-stack web development**  
-- ☁️ Interested in **Cloud, DevOps, and Scalable Architectures**  
 - 🌍 A curious and versatile Computer Engineer always eager to learn and build  
 - ⚡ Fun fact: *“I can code for hours as long as there’s rap in my headphones 🎧”*
 
