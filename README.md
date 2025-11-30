@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-- 🎓 Software Engineering Student (EMSI Rabat)  
+- 🎓 Software Engineering Student   
 - 💻 Passionate about **software engineering and full-stack web development**  
 - ☁️ Interested in **Cloud, DevOps, and Scalable Architectures**  
 - 🌍 A curious and versatile Computer Engineer always eager to learn and build  
