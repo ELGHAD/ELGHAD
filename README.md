@@ -31,9 +31,9 @@
 
 I'm a final-year Software Engineering student (École Marocaine des Sciences de l'Ingénieur), currently completing my end-of-studies internship, where I build full-stack applications end-to-end — from database design to deployment.
 
-- 🎯 **Generalist by design** — I'd rather understand *why* something works before I ship it, which is why I move comfortably across the stack instead of sticking to one layer
-- 🧩 Comfortable across **Java/Spring Boot, Angular, .NET, and Laravel** ecosystems, with hands-on experience in Docker, CI/CD, and cloud basics (Azure, Oracle Cloud)
-- 🎓 Graduating **September 2026** and actively looking for full-time / freelance opportunities
+-  **Generalist by design** — I'd rather understand *why* something works before I ship it, which is why I move comfortably across the stack instead of sticking to one layer
+-  Comfortable across **Java/Spring Boot, Angular, .NET, and Laravel** ecosystems, with hands-on experience in Docker, CI/CD, and cloud basics (Azure, Oracle Cloud)
+-  Graduating **September 2026** and actively looking for full-time / freelance opportunities
 - 🎧 Fun fact: my best code gets written with rap in the headphones — rhythm in, bugs out
 
 <br/>
