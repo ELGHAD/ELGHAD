@@ -3,88 +3,81 @@
   Repo special: ELGHAD/ELGHAD
 -->
 
-<!-- Animated banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hamza+ELRHADIOUINI;Software+Engineering+Student;Full-Stack+Developer;Clean+Code+.+Cloud+Ready+.+Problem+Solver" alt="Typing banner"/>
-</p>
+<div align="center">
 
-<!-- Social links -->
-<p align="center">
-  <a href="https://hamza-elrhadiouini-portfolio.lovable.app/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0B1020?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:hamelrhadiouini@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-1E293B?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ELGHAD&style=for-the-badge&color=grey">
-</p>
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,100:e8475f&height=200&section=header&text=Hamza%20ELRHADIOUINI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
----
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=E8475F&center=true&vCenter=true&width=700&lines=Final-Year+Software+Engineering+Student;Full-Stack+Developer+%E2%80%A2+Java+%2F+Spring+Boot+%2F+Angular;Generalist+by+choice%2C+not+by+accident;Open+to+Opportunities+%E2%80%94+Graduating+Sept+2026" alt="Typing SVG" />
 
-## 👋 About Me
+<br/>
 
-- 🎓 Software Engineering Student   
-- 💻 Passionate about **software engineering and full-stack web development**  
-- 🌍 A curious and versatile Computer Engineer always eager to learn and build  
-- ⚡ Fun fact: *“I can code for hours as long as there’s rap in my headphones 🎧”*
+<a href="https://hamza-elrhadiouini-portfolio.lovable.app/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-1a2744?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hamelrhadiouini@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Contact-e8475f?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+</div>
 
-## 🛠 Tech Stack
+<br/>
 
-**🌐 Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## About Me
 
-**⚙️ Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+I'm a final-year Software Engineering student (École Marocaine des Sciences de l'Ingénieur), currently completing my end-of-studies internship, where I build full-stack applications end-to-end — from database design to deployment.
 
-**🗄️ Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+- 🎯 **Generalist by design** — I'd rather understand *why* something works before I ship it, which is why I move comfortably across the stack instead of sticking to one layer
+- 🧩 Comfortable across **Java/Spring Boot, Angular, .NET, and Laravel** ecosystems, with hands-on experience in Docker, CI/CD, and cloud basics (Azure, Oracle Cloud)
+- 🎓 Graduating **September 2026** and actively looking for full-time / freelance opportunities
+- 🎧 Fun fact: my best code gets written with rap in the headphones — rhythm in, bugs out
 
-**⚡ Tools & DevOps**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+<br/>
 
----
+## Tech Stack
 
-## 📊 GitHub Stats
+<div align="center">
 
-### Most Used Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELGHAD&layout=compact&langs_count=12&card_width=500&hide_border=true&theme=github_dark"
-    alt="Top languages for ELGHAD"
-  />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,cs,dotnet" />
 
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb" />
 
+**Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,azure,linux" />
 
-## 📫 Connect With Me
-📧 [Email Me](mailto:hamelrhadiouini@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/)  
+</div>
+
+<br/>
+
+## What I'm Building Toward
+
+I'm looking for roles where I can keep growing as a well-rounded engineer — teams that value understanding the full picture over narrow specialization. Currently sharpening the fundamentals that matter most in real interviews: system design, deployment pipelines, and clean architecture.
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+📧 [hamelrhadiouini@gmail.com](mailto:hamelrhadiouini@gmail.com) &nbsp;|&nbsp;
+🔗 [LinkedIn](https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/) &nbsp;|&nbsp;
 🌐 [Portfolio](https://hamza-elrhadiouini-portfolio.lovable.app/)
 
----
+<br/><br/>
 
-✨ *“Coding in rhythm, beating through rap and software — that’s my flow.”*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8475f,100:1a2744&height=100&section=footer" width="100%"/>
+
+</div>
