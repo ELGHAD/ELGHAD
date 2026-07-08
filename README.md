@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://hamza-elrhadiouini-portfolio.lovable.app/" target="_blank">
+<a href="[https://hamza-elrhadiouini-portfolio.lovable.app/](https://elghad.github.io/hamza-elrhadiouini-portfolio/)" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-1a2744?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202" target="_blank">
@@ -74,7 +74,7 @@ I'm looking for roles where I can keep growing as a well-rounded engineer — te
 
 📧 [hamelrhadiouini@gmail.com](mailto:hamelrhadiouini@gmail.com) &nbsp;|&nbsp;
 🔗 [LinkedIn](https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/) &nbsp;|&nbsp;
-🌐 [Portfolio](https://hamza-elrhadiouini-portfolio.lovable.app/)
+🌐 [Portfolio]([https://hamza-elrhadiouini-portfolio.lovable.app/](https://elghad.github.io/hamza-elrhadiouini-portfolio/))
 
 <br/><br/>
 
