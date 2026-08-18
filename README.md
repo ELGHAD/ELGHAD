@@ -93,14 +93,6 @@ I'm a final-year Software Engineering student (École Marocaine des Sciences de 
 
 <br/>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELGHAD&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
-</div>
-
-<br/>
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -111,6 +103,6 @@ I'm a final-year Software Engineering student (École Marocaine des Sciences de 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,50:14532d,100:0a0a0a&height=120&section=footer" width="100%"/>
+
 
 </div>
