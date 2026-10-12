@@ -1,164 +1,170 @@
- <div align="center">
+# 👨‍💻 Hamza ELRHADIOUINI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:14532d,100:16A34A&height=210&section=header&text=Hamza%20ELRHADIOUINI&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20AI&descAlignY=58&descSize=16" width="100%" alt="Hamza ELRHADIOUINI — Software Engineer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101820,100:123C35&text=SOFTWARE%20ENGINEER&fontColor=FFFFFF&fontSize=38&fontAlignY=42&desc=BACKEND%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20APPLIED%20AI&descAlignY=65&descSize=16" width="100%" alt="Software Engineer — Backend, Full-Stack, Applied AI" />
+</p>
 
-<br/>
+<p align="center">
+  <strong>Turning ideas into reliable, useful software.</strong>
+</p>
 
-### Turning ideas into reliable, useful software.
+<p align="center">
+  <a href="https://elghad.github.io/hamza-elrhadiouini-portfolio/"><img src="https://img.shields.io/badge/Portfolio-123C35?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/"><img src="https://img.shields.io/badge/LinkedIn-123C35?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hamelrhadiouini@gmail.com"><img src="https://img.shields.io/badge/Email-123C35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I build backend systems, full-stack applications, and AI-powered solutions with a focus on clean architecture, practical problem-solving, and maintainable code.
-
-<a href="https://elghad.github.io/hamza-elrhadiouini-portfolio/">
-  <img src="https://img.shields.io/badge/Explore%20My%20Work-14532d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:hamelrhadiouini@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=750&lines=Engineering+reliable+backend+systems;Building+end-to-end+full-stack+applications;Bringing+AI+into+real-world+software;Always+learning.+Always+building." alt="Software engineering focus"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+robust+backend+systems;Creating+end-to-end+web+experiences;Exploring+RAG+and+LLM-powered+applications;Always+learning%2C+always+building" alt="Engineering focus" />
+</p>
 
 ---
 
 ## About Me
 
-I'm a Software Engineer who enjoys turning complex problems into practical, well-structured software.
+I'm a Software Engineer who enjoys turning complex problems into practical, maintainable software. I work across backend development, full-stack applications, and AI-powered solutions, with a focus on clean design, useful features, and reliable implementation.
 
-My work spans backend engineering, full-stack development, and applied AI. I care about more than getting something to work: I value understanding the problem, making thoughtful technical decisions, and building solutions that are easier to maintain, extend, and use.
+- **Engineering mindset:** I value readable code, sound architecture, and maintainability.
+- **End-to-end ownership:** I enjoy taking an idea from design and implementation to testing and deployment.
+- **Continuous learning:** I explore new technologies by building and improving real applications.
+- **Team-oriented:** I appreciate clear communication, collaboration, and sharing knowledge.
 
-**What I bring to a team:**
-
-- **End-to-end ownership** — from requirements and data modeling to implementation, integration, testing, and deployment.
-- **Engineering mindset** — an emphasis on readable code, separation of concerns, maintainability, and sound architectural decisions.
-- **Versatility** — the ability to work across backend, frontend, databases, and AI integrations while choosing technologies that fit the problem.
-- **Practical problem-solving** — a focus on useful outcomes, continuous improvement, and learning through implementation.
-- **Collaborative approach** — open communication, knowledge sharing, and a willingness to learn from other engineers.
-
-I'm currently looking for opportunities where I can contribute, take responsibility, and grow with a team that values good engineering.
-
-<div align="center">
-
-**Open to full-time opportunities · Rabat / Casablanca, Morocco · Available immediately**
-
-</div>
+📍 **Open to full-time opportunities** · Rabat / Casablanca, Morocco · Available immediately
 
 ---
 
 ## Technical Stack
 
-<div align="center">
+*Technologies I've worked with across projects. Logos identify tools; styled badges cover practices and concepts.*
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,cs,cpp,c,php,kotlin" alt="Java, Python, TypeScript, JavaScript, C Sharp, C++, C, PHP and Kotlin"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cs,cpp,c,php,kotlin&theme=dark" alt="Java, Python, TypeScript, JavaScript, C Sharp, C++, C, PHP, Kotlin" />
+</p>
 
-### Backend & API Development
+<p>
+  <img src="https://img.shields.io/badge/SQL-263238?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,laravel,symfony,dotnet" alt="Spring Boot, FastAPI, Node.js, Express, Laravel, Symfony and .NET"/>
+### Backend & APIs
 
-`REST APIs` · `Microservices` · `Spring Boot` · `ASP.NET Core MVC` · `Eloquent ORM` · `JPA / Hibernate` · `JWT` · `RBAC` · `OpenAPI / Swagger`
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,laravel,symfony,dotnet,django&theme=dark" alt="Spring, FastAPI, Node.js, Express, Laravel, Symfony, .NET, Django" />
+</p>
 
-### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-123C35?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-123C35?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-123C35?style=flat-square" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-123C35?style=flat-square" alt="JPA and Hibernate" />
+  <img src="https://img.shields.io/badge/JWT%20%2F%20RBAC-123C35?style=flat-square" alt="JWT and RBAC" />
+  <img src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-123C35?style=flat-square" alt="OpenAPI and Swagger" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-123C35?style=flat-square" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/Doctrine%20ORM-123C35?style=flat-square" alt="Doctrine ORM" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,bootstrap,vite" alt="Angular, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap and Vite"/>
+### Frontend
 
-`TypeScript` · `JavaScript` · `Blade` · `Twig` · `Responsive UI` · `API Integration`
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,bootstrap,vite&theme=dark" alt="Angular, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Vite" />
+</p>
 
-### Databases & Data Management
+<p>
+  <img src="https://img.shields.io/badge/Responsive%20UI-123C35?style=flat-square" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/API%20Integration-123C35?style=flat-square" alt="API Integration" />
+  <img src="https://img.shields.io/badge/Blade%20%2F%20Twig-123C35?style=flat-square" alt="Blade and Twig" />
+  <img src="https://img.shields.io/badge/Razor%20Pages-123C35?style=flat-square" alt="Razor Pages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="PostgreSQL, MySQL, MongoDB, SQLite and Redis"/>
+### Databases & Data
 
-`SQL Server` · `pgvector` · `Supabase` · `Database Design` · `ORMs` · `Data Modeling`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis" />
+</p>
 
-### AI, Generative AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-123C35?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/pgvector-123C35?style=flat-square" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Supabase-123C35?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Database%20Design-123C35?style=flat-square" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-123C35?style=flat-square" alt="Data Modeling" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" alt="TensorFlow, PyTorch and Python"/>
+### Applied AI & Computer Vision
 
-`RAG` · `LLM Integration` · `OpenAI API` · `LangChain` · `Embeddings` · `Semantic Search` · `Vector Search` · `Keras` · `CNN` · `OpenCV` · `Image Classification`
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-123C35?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-123C35?style=flat-square" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-123C35?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-123C35?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Embeddings-123C35?style=flat-square" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Vector%20Search-123C35?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-123C35?style=flat-square" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/CNN-123C35?style=flat-square" alt="CNN" />
+  <img src="https://img.shields.io/badge/Image%20Classification-123C35?style=flat-square" alt="Image Classification" />
+</p>
 
 ### DevOps, Cloud & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,git,github,linux,maven,gradle,postman" alt="Docker, Kubernetes, GitHub Actions, Azure, Git, GitHub, Linux, Maven, Gradle and Postman"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,git,github,linux,maven,gradle,postman&theme=dark" alt="Docker, Kubernetes, Azure, GitHub Actions, Git, GitHub, Linux, Maven, Gradle, Postman" />
+</p>
 
-`Vite` · `Vercel` · `Railway` · `Cloudinary` · `Strapi` · `Composer` · `npm` · `Gradle Kotlin DSL`
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Vercel-123C35?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Railway-123C35?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Cloudinary-123C35?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Strapi-123C35?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
+  <img src="https://img.shields.io/badge/npm-123C35?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Composer-123C35?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+</p>
 
 ---
 
 ## Engineering Practices
 
-<div align="center">
-
-![OOP](https://img.shields.io/badge/Object--Oriented%20Design-14532d?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-14532d?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-14532d?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-14532d?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-14532d?style=flat-square)
-![REST](https://img.shields.io/badge/REST%20API-14532d?style=flat-square)
-![Testing](https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-14532d?style=flat-square)
-![Security](https://img.shields.io/badge/JWT%20%26%20RBAC-14532d?style=flat-square)
-![Documentation](https://img.shields.io/badge/API%20Documentation-14532d?style=flat-square)
-![UML](https://img.shields.io/badge/UML%20%26%20System%20Design-14532d?style=flat-square)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-14532d?style=flat-square)
-![Agile](https://img.shields.io/badge/Scrum%20%26%20Agile-14532d?style=flat-square)
-
-</div>
-
-I aim to build software that is understandable, testable, secure, and straightforward to evolve. I value appropriate abstractions, clear API contracts, reliable data handling, and collaboration throughout the development lifecycle.
+<p>
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-1F2937?style=for-the-badge" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1F2937?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-1F2937?style=for-the-badge" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/MVC-1F2937?style=for-the-badge" alt="MVC" />
+  <img src="https://img.shields.io/badge/Microservices-1F2937?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-1F2937?style=for-the-badge" alt="Unit and Integration Testing" />
+  <img src="https://img.shields.io/badge/API%20Documentation-1F2937?style=for-the-badge" alt="API Documentation" />
+  <img src="https://img.shields.io/badge/UML%20%26%20System%20Design-1F2937?style=for-the-badge" alt="UML and System Design" />
+  <img src="https://img.shields.io/badge/Git%20%26%20Version%20Control-1F2937?style=for-the-badge" alt="Git and Version Control" />
+  <img src="https://img.shields.io/badge/Scrum%20%26%20Agile-1F2937?style=for-the-badge" alt="Scrum and Agile" />
+</p>
 
 ## Applied AI
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-123C35?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/LLM--Powered%20Applications-123C35?style=for-the-badge" alt="LLM-Powered Applications" />
+  <img src="https://img.shields.io/badge/Semantic%20%26%20Vector%20Search-123C35?style=for-the-badge" alt="Semantic and Vector Search" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-123C35?style=for-the-badge" alt="Computer Vision" />
+</p>
 
-![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-166534?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLM%20Integration-166534?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-166534?style=flat-square)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-166534?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-166534?style=flat-square)
-
-</div>
-
-I approach AI as an engineering discipline: integrating models into applications, connecting them to relevant data, designing retrieval workflows, and making AI capabilities useful within larger software systems.
-
-## Certification
-
-<div align="center">
-
-<a href="https://www.oracle.com/education/certification/">
-  <img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20%7C%20Java%20SE%2017-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Professional Java SE 17 Developer"/>
-</a>
-
-</div>
+I’m interested in building AI features that solve real problems and fit into reliable software systems — combining retrieval, APIs, backend engineering, and thoughtful user experiences.
 
 ---
 
-## Let's Build Something Meaningful
+## Let's Connect
 
-I'm always interested in connecting with engineers, exchanging ideas, contributing to ambitious projects, and exploring opportunities to build useful software together.
+I'm always happy to connect with engineers, developers, recruiters, and people building useful things. If you're working on an interesting product or looking for a software engineer who enjoys learning and taking ownership, let's talk.
 
-If you're hiring a Software Engineer, looking for a collaborator, or simply want to talk about backend development, full-stack engineering, or applied AI, feel free to reach out.
+<p align="center">
+  <a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-123C35?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:hamelrhadiouini@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-123C35?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+</p>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/elrhadiouini-hamza-64ba04202/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:hamelrhadiouini@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://elghad.github.io/hamza-elrhadiouini-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Discover%20More-14532d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<sub>Build with purpose. Engineer with care. Keep learning.</sub>
-
-</div>
+<p align="center">
+  <em>Build with purpose. Engineer with care. Keep learning.</em>
+</p>
