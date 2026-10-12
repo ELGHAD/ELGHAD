@@ -49,7 +49,6 @@ I'm currently looking for opportunities where I can contribute, take responsibil
 </div>
 
 ---
-
 ## Technical Stack
 
 <div align="center">
@@ -62,31 +61,76 @@ I'm currently looking for opportunities where I can contribute, take responsibil
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,laravel,symfony,dotnet" alt="Spring Boot, FastAPI, Node.js, Express, Laravel, Symfony and .NET"/>
 
-`REST APIs` · `Microservices` · `Spring Boot` · `ASP.NET Core MVC` · `Eloquent ORM` · `JPA / Hibernate` · `JWT` · `RBAC` · `OpenAPI / Swagger`
+<br/>
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-14532d?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-14532d?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-14532d?style=flat-square&logo=springboot&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-14532d?style=flat-square&logo=dotnet&logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent%20ORM-14532d?style=flat-square&logo=laravel&logoColor=white)
+![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-14532d?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-14532d?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-14532d?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-14532d?style=flat-square&logo=swagger&logoColor=white)
 
 ### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,bootstrap,vite" alt="Angular, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap and Vite"/>
 
-`TypeScript` · `JavaScript` · `Blade` · `Twig` · `Responsive UI` · `API Integration`
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-14532d?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-14532d?style=flat-square&logo=javascript&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-14532d?style=flat-square)
+![Twig](https://img.shields.io/badge/Twig-14532d?style=flat-square)
+![Responsive UI](https://img.shields.io/badge/Responsive%20UI-14532d?style=flat-square)
+![API Integration](https://img.shields.io/badge/API%20Integration-14532d?style=flat-square)
 
 ### Databases & Data Management
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="PostgreSQL, MySQL, MongoDB, SQLite and Redis"/>
 
-`SQL Server` · `pgvector` · `Supabase` · `Database Design` · `ORMs` · `Data Modeling`
+<br/>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-14532d?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-14532d?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-14532d?style=flat-square&logo=supabase&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-14532d?style=flat-square)
+![ORMs](https://img.shields.io/badge/ORMs-14532d?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-14532d?style=flat-square)
 
 ### AI, Generative AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" alt="TensorFlow, PyTorch and Python"/>
 
-`RAG` · `LLM Integration` · `OpenAI API` · `LangChain` · `Embeddings` · `Semantic Search` · `Vector Search` · `Keras` · `CNN` · `OpenCV` · `Image Classification`
+<br/>
+
+![RAG](https://img.shields.io/badge/RAG-14532d?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-14532d?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-14532d?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-14532d?style=flat-square&logo=langchain&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-14532d?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-14532d?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-14532d?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-14532d?style=flat-square&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-14532d?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-14532d?style=flat-square&logo=opencv&logoColor=white)
+![Image Classification](https://img.shields.io/badge/Image%20Classification-14532d?style=flat-square)
 
 ### DevOps, Cloud & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,git,github,linux,maven,gradle,postman" alt="Docker, Kubernetes, GitHub Actions, Azure, Git, GitHub, Linux, Maven, Gradle and Postman"/>
 
-`Vite` · `Vercel` · `Railway` · `Cloudinary` · `Strapi` · `Composer` · `npm` · `Gradle Kotlin DSL`
+<br/>
+
+![Vite](https://img.shields.io/badge/Vite-14532d?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-14532d?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-14532d?style=flat-square&logo=railway&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-14532d?style=flat-square&logo=cloudinary&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-14532d?style=flat-square&logo=strapi&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-14532d?style=flat-square&logo=composer&logoColor=white)
+![npm](https://img.shields.io/badge/npm-14532d?style=flat-square&logo=npm&logoColor=white)
+![Gradle Kotlin DSL](https://img.shields.io/badge/Gradle%20Kotlin%20DSL-14532d?style=flat-square&logo=gradle&logoColor=white)
 
 </div>
 
