@@ -44,7 +44,7 @@ I'm currently looking for opportunities where I can contribute, take responsibil
 
 <div align="center">
 
-**Open to full-time opportunities · Rabat / Casablanca, Morocco · Available immediately**
+**🌍 Open to full-time opportunities · Flexible on location · Available immediately**
 
 </div>
 
